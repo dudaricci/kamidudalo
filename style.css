@@ -1,0 +1,14 @@
+body{
+        background-color: aqua;
+        color: aquamarine;
+}
+
+span{
+    color: azure;
+}
+
+.contagem{
+    background-color: beige;
+    padding: 20px 0;
+    text-align: center;
+}
