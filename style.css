@@ -1,6 +1,6 @@
 body{
         background-color: #ffbcff;
-        color: rgb(255, 0, 170);
+        color: rgb(44, 3, 30);
 }
 
 span{
@@ -8,21 +8,21 @@ span{
 }
 
 .contagem{
-    background-color:rgb(255, 0, 170);
+    background-color:rgb(47, 0, 255);
     padding: 20px 0;
     text-align: center;
 }
 
 .objetivos{
-    color: black;
+    color: rgb(255, 94, 94);
     padding: 20px;
     font-size: 18px;
 }
 
 .ativo{
-    background-color:#f790f7;
-    color: rgb(243, 111, 117);
-    border-bottom: 3px solid rgb(rgb(255, 154, 221));
+    background-color:#000000;
+    color: rgb(255, 255, 255);
+    border-bottom: 3px solid rgb(rgb(255, 33, 33));
 
 .aba-conteudo{
     display: none;
