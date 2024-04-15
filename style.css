@@ -1,14 +1,14 @@
 body{
         background-color: #ffbcff;
-        color: beige;
+        color: rgb(184, 184, 103);
 }
 
 span{
-    color:azure;
+    color:rgb(77, 235, 235);
 }
 
 .contagem{
-    background-color:aliceblue;
+    background-color:rgb(255, 154, 221);
     padding: 20px 0;
     text-align: center;
 }
@@ -21,6 +21,6 @@ span{
 
 .ativo{
     background-color:#f790f7;
-    color: aliceblue;
+    color: rgb(243, 111, 117);
     border-bottom: 3px solid rgb(rgb(255, 154, 221));
 }
