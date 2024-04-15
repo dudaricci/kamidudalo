@@ -22,8 +22,8 @@ span{
 .ativo{
     background-color:#000000;
     color: rgb(255, 255, 255);
-    border-bottom: 3px solid rgb(rgb(255, 33, 33));
-
+    border-bottom: 3px solid rgb(255, 33, 33);
+}
 .aba-conteudo{
     display: none;
 }  
@@ -38,4 +38,3 @@ span{
   font-size: 22px;
 }
 
-}
